@@ -1,0 +1,63 @@
+body{
+  background-image: url('img/background.jpg');
+  background-size: cover;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+#titolone{
+  color: rgba(0, 255, 0, 1);
+}
+
+#logo{
+  width:200px;
+  }
+
+  .container{
+  background-color: rgba(0,0,0,0.5);
+  border-radius:20px;
+  text-align: center;
+  width:1000px;
+  height: 675px;
+  margin: auto;
+  padding: 70px;
+  box-sizing: border-box;
+}
+
+nav{
+  background-color: rgba(0, 255, 0, 1);
+  text-align: center;
+  line-height: 30px;
+  height: 30px;
+}
+
+.proprietario{
+  text-align: left;
+  color: white;
+  font-size: 20px;
+  padding-top: 20px;
+}
+
+.info{
+  font-size: 12px;
+}
+
+.charge1{
+  background-color: rgba(255,117,20,1);
+  border-radius: 5px;
+  height: 20px;
+  width: 450px;
+}
+
+.charge2{
+  background-color: rgba(0,255,0,1);
+  border-radius: 5px;
+  height: 20px;
+  width: 780px;
+}
+
+.charge3{
+  background-color: rgba(255,0,0,1);
+  border-radius: 5px;
+  height: 20px;
+  width: 160px;
+}
